@@ -36,7 +36,7 @@ It's the one that says bad motherf*cker
 
 I don't need you to tell me how f*ckin good my coffee is, okay? I'm the one who buys it. I know how good it is
 
-English, mother f*cker, do you speak it
+English, mother f*cker, do you speak it     --> PRINT
 
 You hear me talking, hillbilly boy? I ain't through with you by a d*mn sight. I'm gonna get medieval on your *ss
 
@@ -62,7 +62,7 @@ Ezekiel 25:17
 
 I want you to go in that bag, and find my wallet
 
-How will I know which one is yours?
+How will I know which one is yours  --> IF condition
 
 I'm not a hero. I'm not a villain. I'm something you can never understand
 

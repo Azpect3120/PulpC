@@ -2,11 +2,23 @@
 
 Programming language based on one liners from the hit movie [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction)
 
+Inspired by [ArnoldC](https://github.com/lhartikk/ArnoldC)
 
+# Hello World
+```
+# hello_world.pulp
+    
 
+```
 
+# Quick Start
+```
+    commands to get binary
+
+```
 
 # Syntax List
+
 ```
 I just shot Marvin in the face
 
@@ -47,6 +59,20 @@ I don't remember asking you a g*ddamn thing
 You read the Bible, Brett
 
 Ezekiel 25:17
+
+I want you to go in that bag, and find my wallet
+
+How will I know which one is yours?
+
+I'm not a hero. I'm not a villain. I'm something you can never understand
+
+Personality goes a long way
+
+You sendin' the Wolf? Sh*t, Negro, that's all you had to say!
+
+Well, ain't you the sweetest thing
+
+Marcellus ain't no country I ever heard of. They speak English in Marcellus
 
 
 ```

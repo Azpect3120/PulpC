@@ -76,5 +76,27 @@ Well, ain't you the sweetest thing
 
 Marcellus ain't no country I ever heard of. They speak English in Marcellus
 
+Describe what Marcellus Wallace looks like 
+
+he's big...he's black...he's bald
+
+Does he look like a b*tch
+
+Then why are you trying trying to f*ck him like a b*tch
+
+Who's chopper is this
+
+Who's Zed? Zed's dead, Zed's dead baby.
+
+My name's Pitt. And you *ss ain't talking your way out this sh*t
+
+Tell that b*tch be cool!
+
+B*tch be cool!
+
+I can't believe this is the same car
+
+Well, let's not start sucking each others d*cks quite yet!
+
 
 ```
